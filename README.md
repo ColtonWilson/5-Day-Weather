@@ -8,6 +8,7 @@
 This 5-day weather forcast will be connected to to a weather api. 
 <br>Located at: https://api.openweathermap.org/data/2.5/forecast?lat={lat}&lon={lon}&appid={API key}
 <br>This website will show the weather for multiple cities. 
+<br>Currently there is an issue with the second call to API and it is not getting the five days. Need to continue work to fix. 
 
 ## Badges
 
@@ -17,12 +18,13 @@ This 5-day weather forcast will be connected to to a weather api.
 
 ## Visuals
 
-![Password Generator Screenshot](assets/images/Password-Generator-Generate-A-Unique-Password-Screenshoot.png)
+![weather-dashboard-site](https://github.com/ColtonWilson/5-Day-Weather/blob/main/Screenshot%202022-12-05%20155209.png?raw=true)
 
 
 
 ## Usage
 
+User can type in a location to the search bar and website will respond with the temprature for that day as well as a five day forcast for that location. 
  
 
 
